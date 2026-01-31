@@ -1,0 +1,7 @@
+psycopg2-binary
+python-dotenv
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+numpy

@@ -1,0 +1,14 @@
+.cache.sqlite
+как_делать.txt
+.env
+plan.txt
+.cache.sqlite
+dtp_processing.log
+dtp_loader.log
+about_lib.txt
+cities_without_coords.csv
+archive_open_meteo.csv
+etl_city_from_csv.py
+lobnya_open_meteo.csv
+russian_cities.csv
+regions_coord.csv
