@@ -4,14 +4,14 @@
 
 **Источники данных:**
 
-    Погода: Open-Meteo API
+  Погода: Open-Meteo API
   
-    Города: Wikipedia
+  Города: Wikipedia
 
 **Хранение:**
 
-    База данных PostgreSQL на Supabase
+  База данных PostgreSQL на Supabase
 
 **Дашборд:**
 
-    Визуализация в Yandex DataLens https://datalens.yandex/sdvk74fvhcfke
+  Визуализация в Yandex DataLens https://datalens.yandex/sdvk74fvhcfke
